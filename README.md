@@ -1,5 +1,5 @@
 # Basic_Node_Express_Post_Data
-A Basic POST request implementation using Node &amp; Express.
+A basic POST request implementation using Node and Express. A web app that takes data from the form and display the data after the user clicked on send button.  
 
 ## Steps to run the Project
 
